@@ -60,11 +60,7 @@ O diagrama foi criado no MySQL Workbench e está disponível neste repositório:
 - - [script_E_Commerce.sql](script_E_Commerce.sql) — Script de criação das tabelas e relacionamentos
 
 
----
+--
 
-## 🚀 Como usar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/ecommerce-db.git
 
